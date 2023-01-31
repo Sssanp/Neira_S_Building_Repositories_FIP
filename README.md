@@ -17,7 +17,7 @@ Exploring Workflow Concepts
 
 ### Assignment Requirements
 
-#### Create a repository for your project using the correct naming convention(lastName_firstInitial_FIP)
+#### ● Create a repository for your project using the correct naming convention(lastName_firstInitial_FIP)
 
 #### ● Use workflow practices as outlined in class - branches, commits, pull requests and merges (NEVER work directly on the main/master branch)
 
